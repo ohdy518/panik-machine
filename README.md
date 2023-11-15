@@ -2,8 +2,6 @@
 Make your friends panik by running this on their PC!
 
 
-~~sounds super fun to me~~
-
 # DISCLAIMER
 **This repository contains files which can damage the PC or lower the performance. Those are:**
 * Restart and shutdown the operating system
@@ -20,13 +18,13 @@ Make your friends panik by running this on their PC!
 
 
 **Before you run**
-* Grab access to your friend's PC. **Windows** is the OS where all operations work.
+* Grab access to your friend's PC. **Windows** works the best.
 
 
 **Run**
-* Run the main python file. `python .\main.py`
+* Run the python file. `python .\main.py`
 
 
 **Troubleshoot**
 * Make some new friends if you lost one during the action.
-* If you found a bug, or have suggestions, report it in the Issues tab **IMMEDIATELY**. ~~I'd like to panik more friends~~
+* If you found a bug, or have suggestions, report it in the Issues tab.
